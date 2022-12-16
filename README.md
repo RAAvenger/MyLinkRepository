@@ -12,3 +12,4 @@ i have not read or watched these yet.
 
 ### documents
 - [Exploring .NET 6](https://andrewlock.net/series/exploring-dotnet-6/)
+- [Creating a source generator](https://andrewlock.net/series/creating-a-source-generator/)
