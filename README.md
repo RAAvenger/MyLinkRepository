@@ -14,7 +14,8 @@ This is My Link Repository! I like to have some handy links in reach in case i n
 ## Study list
 i have not read or watched these yet.
 ### videos
-
+- [Goodbye controllers, hello Minimal APIs - Nick Chapsas - NDC London 2022](https://www.youtube.com/watch?v=hPpvlKLeYYA)
+- [Back to Basics: Efficient Async and Await - Filip Ekberg - NDC Porto 2022](https://www.youtube.com/watch?v=XEeeYTG3hUg&list=PL03Lrmd9CiGf2W0_aZw1o_rbtXGrKCIM4)
 ### documents
 - [Exploring .NET 6](https://andrewlock.net/series/exploring-dotnet-6/)
 - [Creating a source generator](https://andrewlock.net/series/creating-a-source-generator/)
