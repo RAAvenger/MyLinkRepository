@@ -4,6 +4,7 @@ This is My Link Repository! I like to have some handy links in reach in case i n
 ## videos
 - [God-Tier Developer Roadmap](https://www.youtube.com/watch?v=pEfrdAtAmqk): Great and fun video to learn about almost any known programing language.
 - [What is Span in C# and why you should be using it](https://www.youtube.com/watch?v=FM5dpxJMULY): Well i still don't get it entirely but any developer that wants to write high performance dotnet app should know about span.
+- [The evolution of Pattern Matching in C# (from version 6 to 10)](https://www.youtube.com/watch?v=MzNHMJCyU40): Patterm matching is pretty cool and this video can teach you all about it( for now! ).
 
 ## documents
 - [Generating sortable Guids using NewId](https://andrewlock.net/generating-sortable-guids-using-newid/) by Andrew Lock: An excellent document about how to use Guid in database as primary key.
