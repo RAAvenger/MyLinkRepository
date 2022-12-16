@@ -5,6 +5,7 @@ This is My Link Repository! I like to have some handy links in reach in case i n
 - [God-Tier Developer Roadmap](https://www.youtube.com/watch?v=pEfrdAtAmqk): Great and fun video to learn about almost any known programing language.
 - [What is Span in C# and why you should be using it](https://www.youtube.com/watch?v=FM5dpxJMULY): Well i still don't get it entirely but any developer that wants to write high performance dotnet app should know about span.
 - [The evolution of Pattern Matching in C# (from version 6 to 10)](https://www.youtube.com/watch?v=MzNHMJCyU40): Patterm matching is pretty cool and this video can teach you all about it( for now! ).
+- [ITkonekt 2019 | Robert C. Martin (Uncle Bob), Clean Architecture and Design](https://www.youtube.com/watch?v=2dKZ-dWaCiU): One of the best videos out there about clean architecture by uncle bob himself. 
 
 ## documents
 - [Generating sortable Guids using NewId](https://andrewlock.net/generating-sortable-guids-using-newid/) by Andrew Lock: An excellent document about how to use Guid in database as primary key.
@@ -16,6 +17,14 @@ i have not read or watched these yet.
 ### videos
 - [Goodbye controllers, hello Minimal APIs - Nick Chapsas - NDC London 2022](https://www.youtube.com/watch?v=hPpvlKLeYYA)
 - [Back to Basics: Efficient Async and Await - Filip Ekberg - NDC Porto 2022](https://www.youtube.com/watch?v=XEeeYTG3hUg&list=PL03Lrmd9CiGf2W0_aZw1o_rbtXGrKCIM4)
+- [Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git](https://www.youtube.com/watch?v=Uszj_k0DGsg)
+- [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://www.youtube.com/watch?v=oBt53YbR9Kk)
+- [.NET Data Community Standup - EF Core Architecture: Internal Dependency Injection](https://www.youtube.com/watch?v=pYhe-Mt0HzI)
+- [Michael Feathers Working Effectively with Legacy Code](https://www.youtube.com/watch?v=wRtJRkRIa2s)
+- [Latency Numbers Programmer Should Know](https://www.youtube.com/watch?v=FqR5vESuKe0)
+- [Pragmatic Event Sourcing in .NET With Marten](https://www.youtube.com/watch?v=Lc2zV8KA16A)
+- 
+
 ### documents
 - [Exploring .NET 6](https://andrewlock.net/series/exploring-dotnet-6/)
 - [Creating a source generator](https://andrewlock.net/series/creating-a-source-generator/)
