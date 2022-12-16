@@ -2,7 +2,7 @@
 This is My Link Repository! I like to have some handy links in reach in case i neet to read( watch ) their content again.
 
 ## videos
-
+- [God-Tier Developer Roadmap](https://www.youtube.com/watch?v=pEfrdAtAmqk): Great and fun video to learn about almost any known programing language.
 ## documents
 - [Generating sortable Guids using NewId](https://andrewlock.net/generating-sortable-guids-using-newid/) by Andrew Lock: An excellent document about how to use Guid in database as primary key.
 - [NetEscapades.EnumGenerators: a source generator for enum performance](https://andrewlock.net/netescapades-enumgenerators-a-source-generator-for-enum-performance/) by Andrew Lock: A high performance library to work with enums.
