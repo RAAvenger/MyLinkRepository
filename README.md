@@ -6,6 +6,7 @@ This is My Link Repository! I like to have some handy links in reach in case i n
 - [What is Span in C# and why you should be using it](https://www.youtube.com/watch?v=FM5dpxJMULY): Well i still don't get it entirely but any developer that wants to write high performance dotnet app should know about span.
 - [The evolution of Pattern Matching in C# (from version 6 to 10)](https://www.youtube.com/watch?v=MzNHMJCyU40): Patterm matching is pretty cool and this video can teach you all about it( for now! ).
 - [ITkonekt 2019 | Robert C. Martin (Uncle Bob), Clean Architecture and Design](https://www.youtube.com/watch?v=2dKZ-dWaCiU): One of the best videos out there about clean architecture by uncle bob himself. 
+- [Structure and Interpretation of Test Cases • Kevlin Henney • GOTO 2022](https://www.youtube.com/watch?v=MWsk1h8pv2Q): Testing is a very very important part of development and you should watch this video if you don't know what is test and why should we write them. 
 
 ## documents
 - [Generating sortable Guids using NewId](https://andrewlock.net/generating-sortable-guids-using-newid/) by Andrew Lock: An excellent document about how to use Guid in database as primary key.
