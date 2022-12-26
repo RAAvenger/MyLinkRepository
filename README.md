@@ -16,7 +16,8 @@ This is My Link Repository! I like to have some handy links in reach in case i n
 
 ## repositories 
 - [CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture): Jason Taylor's Clean Architecture Solution Template
-
+- [Mediator](https://github.com/martinothamar/Mediator): It's MediatR but with better performance thanks to dotnet source generator technology.
+ 
 ## Study list
 i have not read or watched these yet.
 ### videos
