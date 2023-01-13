@@ -7,6 +7,7 @@ This is My Link Repository! I like to have some handy links in reach in case i n
 - [The evolution of Pattern Matching in C# (from version 6 to 10)](https://www.youtube.com/watch?v=MzNHMJCyU40): Patterm matching is pretty cool and this video can teach you all about it( for now! ).
 - [ITkonekt 2019 | Robert C. Martin (Uncle Bob), Clean Architecture and Design](https://www.youtube.com/watch?v=2dKZ-dWaCiU): One of the best videos out there about clean architecture by uncle bob himself. 
 - [Structure and Interpretation of Test Cases • Kevlin Henney • GOTO 2022](https://www.youtube.com/watch?v=MWsk1h8pv2Q): Testing is a very very important part of development and you should watch this video if you don't know what is test and why should we write them (even if you know answers to those questions watch the video, you learn one thing or two to write better tests).
+- [Stop using the HttpClient the wrong way in .NET](https://www.youtube.com/watch?v=Z6Y2adsMnAA): Using HttpClient seems to be very easy but using it correctly is important enough to have this video here.
 
 ## documents
 - [Generating sortable Guids using NewId](https://andrewlock.net/generating-sortable-guids-using-newid/) by Andrew Lock: An excellent document about how to use Guid in database as primary key.
