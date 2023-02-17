@@ -9,14 +9,15 @@ This is My Link Repository! I like to have some handy links in reach in case i n
 - [Structure and Interpretation of Test Cases • Kevlin Henney • GOTO 2022](https://www.youtube.com/watch?v=MWsk1h8pv2Q): Testing is a very very important part of development and you should watch this video if you don't know what is test and why should we write them (even if you know answers to those questions watch the video, you learn one thing or two to write better tests).
 - [Stop using the HttpClient the wrong way in .NET](https://www.youtube.com/watch?v=Z6Y2adsMnAA): Using HttpClient seems to be very easy but using it correctly is important enough to have this video here.
 - [The Easiest Way to Measure Your Method’s Performance in C#](https://www.youtube.com/watch?v=xlqcT4NSrZw): Logging the time that methods take is a very common thing to do when you try to improve performance of your code. This video shows you the very easy way to do it. 
-p.s: Logging time using asp middlewares and mediatR behaviors is a good idea anyway.
+p.s. Logging time using asp middlewares and mediatR behaviors is a good idea anyway.
+- [Elegant API Versioning in ASP.NET Core (Web API)](https://www.youtube.com/watch?v=iVHtKG0eU_s): Api versioning is a ommon thing for web applications and its good to know a clean way to do it. 
+p.s. there is an updated one for minimal apis [Implementing Modern API Versioning in .NET](https://www.youtube.com/watch?v=8Asq7ymF1R8).
 
 ## documents
 - [Generating sortable Guids using NewId](https://andrewlock.net/generating-sortable-guids-using-newid/) by Andrew Lock: An excellent document about how to use Guid in database as primary key.
 - [NetEscapades.EnumGenerators: a source generator for enum performance](https://andrewlock.net/netescapades-enumgenerators-a-source-generator-for-enum-performance/) by Andrew Lock: A high performance library to work with enums.
 - [An Introduction to Microservices](https://auth0.com/blog/an-introduction-to-microservices-part-1/): These articles helps to understand some basic fundamentals of microservice architecture.
 - [Clean Architecture with .NET Core: Getting Started](https://jasontaylor.dev/clean-architecture-getting-started/) by Jason Taylor: One of well designed templates to write a project based on clean architecture is Jason Taylor's Clean Architecture Solution Template and in ths document he provides an overview of Clean Architecture then explains how to use the template.
-
 ## repositories 
 - [CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture): Jason Taylor's Clean Architecture Solution Template
 - [Mediator](https://github.com/martinothamar/Mediator): It's MediatR but with better performance thanks to dotnet source generator technology.
