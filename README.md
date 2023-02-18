@@ -13,6 +13,7 @@ p.s. Logging time using asp middlewares and mediatR behaviors is a good idea any
 - [Elegant API Versioning in ASP.NET Core (Web API)](https://www.youtube.com/watch?v=iVHtKG0eU_s): Api versioning is a ommon thing for web applications and its good to know a clean way to do it. 
 p.s. there is an updated one for minimal apis [Implementing Modern API Versioning in .NET](https://www.youtube.com/watch?v=8Asq7ymF1R8).
 - [Clean Message Bus Consumers with MediatR in .NET](https://www.youtube.com/watch?v=wnqBmv1RJNE): A nice way to usee message queues in app.
+- [Implementing API Key Authentication in ASP.NET Core](https://www.youtube.com/watch?v=GrJJXixjR8M): It covers what you need to know about authenticating user's request before calling controller.
 
 ## documents
 - [Generating sortable Guids using NewId](https://andrewlock.net/generating-sortable-guids-using-newid/) by Andrew Lock: An excellent document about how to use Guid in database as primary key.
