@@ -12,6 +12,7 @@ This is My Link Repository! I like to have some handy links in reach in case i n
 p.s. Logging time using asp middlewares and mediatR behaviors is a good idea anyway.
 - [Elegant API Versioning in ASP.NET Core (Web API)](https://www.youtube.com/watch?v=iVHtKG0eU_s): Api versioning is a ommon thing for web applications and its good to know a clean way to do it. 
 p.s. there is an updated one for minimal apis [Implementing Modern API Versioning in .NET](https://www.youtube.com/watch?v=8Asq7ymF1R8).
+- [Clean Message Bus Consumers with MediatR in .NET](https://www.youtube.com/watch?v=wnqBmv1RJNE): A nice way to usee message queues in app.
 
 ## documents
 - [Generating sortable Guids using NewId](https://andrewlock.net/generating-sortable-guids-using-newid/) by Andrew Lock: An excellent document about how to use Guid in database as primary key.
