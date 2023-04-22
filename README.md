@@ -15,6 +15,7 @@ p.s. there is an updated one for minimal apis [Implementing Modern API Versionin
 - [Clean Message Bus Consumers with MediatR in .NET](https://www.youtube.com/watch?v=wnqBmv1RJNE): A nice way to usee message queues in app.
 - [Implementing API Key Authentication in ASP.NET Core](https://www.youtube.com/watch?v=GrJJXixjR8M): It covers what you need to know about authenticating user's request before calling controller.
 - [Grow Your Own Tech Leads • Ken Scambler • YOW! 2019](https://www.youtube.com/watch?v=DOwxbjqPnwM): Tech Leads don'n grow on trees so it's great to know how to make them out of senior developers. Also it's great to know how to become a Tech Lead. 
+- [Adding JWT Authentication & Authorization in ASP.NET Core](https://www.youtube.com/watch?v=mgeuh8k3I4g): Usin JWT is a very common way to authenticate and authorities users, so it's good to know how can we use it in asp.
 
 ## documents
 - [Generating sortable Guids using NewId](https://andrewlock.net/generating-sortable-guids-using-newid/) by Andrew Lock: An excellent document about how to use Guid in database as primary key.
