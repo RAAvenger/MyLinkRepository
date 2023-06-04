@@ -18,6 +18,7 @@ p.s. there is an updated one for minimal apis [Implementing Modern API Versionin
 - [Adding JWT Authentication & Authorization in ASP.NET Core](https://www.youtube.com/watch?v=mgeuh8k3I4g): Usin JWT is a very common way to authenticate and authorities users, so it's good to know how can we use it in asp.
 - [Cleaning up Your Validation Code in .NET](https://www.youtube.com/watch?v=J2tBNTDMf1o): Writing Validations in a cool way when you already use MediatR for your business logic. 
 - [Build Clean Messaging in .NET with MassTransit](https://www.youtube.com/watch?v=4FFYefcx4Bg): Using message queues is a common thing in cloud native architecture so learning how to use them in C# is a must do for a software engineer.
+- [The Best Way to Add Health Checks in Any .NET App](https://www.youtube.com/watch?v=p2faw9DCSsY): In modern cloud native architectures having health api is a must have for any server application, thanks to .net community we can have health api by using a librrary and doing some simple configurations.
 
 ## documents
 - [Generating sortable Guids using NewId](https://andrewlock.net/generating-sortable-guids-using-newid/) by Andrew Lock: An excellent document about how to use Guid in database as primary key.
