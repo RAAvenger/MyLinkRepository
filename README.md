@@ -20,6 +20,7 @@ p.s. there is an updated one for minimal apis [Implementing Modern API Versionin
 - [Build Clean Messaging in .NET with MassTransit](https://www.youtube.com/watch?v=4FFYefcx4Bg): Using message queues is a common thing in cloud native architecture so learning how to use them in C# is a must do for a software engineer.
 - [The Best Way to Add Health Checks in Any .NET App](https://www.youtube.com/watch?v=p2faw9DCSsY): In modern cloud native architectures having health api is a must have for any server application, thanks to .net community we can have health api by using a librrary and doing some simple configurations.
 - [Secret To Optimizing SQL Queries - Understand The SQL Execution Order](https://www.youtube.com/watch?v=BHwzDmr6d7s): We write sql queries every day so at least we should know how to write them in a more performant way.
+- [Top 6 Most Popular API Architecture Styles](https://www.youtube.com/watch?v=4vLxWqE94l4): We hear names like Grpc, GraphQL, webHook and ... from our colleagues but what are this technologies and when should we use them?
 
 ## documents
 - [Generating sortable Guids using NewId](https://andrewlock.net/generating-sortable-guids-using-newid/) by Andrew Lock: An excellent document about how to use Guid in database as primary key.
