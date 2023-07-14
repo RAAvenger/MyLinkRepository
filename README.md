@@ -22,6 +22,7 @@ p.s. there is an updated one for minimal apis [Implementing Modern API Versionin
 - [Secret To Optimizing SQL Queries - Understand The SQL Execution Order](https://www.youtube.com/watch?v=BHwzDmr6d7s): We write sql queries every day so at least we should know how to write them in a more performant way.
 - [Top 6 Most Popular API Architecture Styles](https://www.youtube.com/watch?v=4vLxWqE94l4): We hear names like Grpc, GraphQL, webHook and ... from our colleagues but what are this technologies and when should we use them?
 - [Effective DevOps for Organizations - Anthony Borton - NDC Sydney 2022](https://www.youtube.com/watch?v=cyCaXwbW7h8): A great talk about devops and teams that discuss some practises according to unicorn project book that azure team of microsoft actually adopted and scaled using them.
+- [Expert Talk: DevOps & Software Architecture • Simon Brown, Dave Farley & Hannes Lowette • GOTO 2021](https://www.youtube.com/watch?v=Qv92qaIGbDg): An incredible talk about DevOps and software architecture but they mostly talk about software architecture.   
 
 ## documents
 - [Generating sortable Guids using NewId](https://andrewlock.net/generating-sortable-guids-using-newid/) by Andrew Lock: An excellent document about how to use Guid in database as primary key.
