@@ -23,6 +23,7 @@ p.s. there is an updated one for minimal apis [Implementing Modern API Versionin
 - [Top 6 Most Popular API Architecture Styles](https://www.youtube.com/watch?v=4vLxWqE94l4): We hear names like Grpc, GraphQL, webHook and ... from our colleagues but what are this technologies and when should we use them?
 - [Effective DevOps for Organizations - Anthony Borton - NDC Sydney 2022](https://www.youtube.com/watch?v=cyCaXwbW7h8): A great talk about devops and teams that discuss some practises according to unicorn project book that azure team of microsoft actually adopted and scaled using them.
 - [Expert Talk: DevOps & Software Architecture • Simon Brown, Dave Farley & Hannes Lowette • GOTO 2021](https://www.youtube.com/watch?v=Qv92qaIGbDg): An incredible talk about DevOps and software architecture but they mostly talk about software architecture.   
+- [Kubernetes Deconstructed: Understanding Kubernetes by Breaking It Down - Carson Anderson](https://www.youtube.com/watch?v=90kZRyPcRZw): Kubernetes is a magical tool and almost any scaled application is running on it. Knowing what it actually is and how it works is a great thing that this video try to talk about.
 
 ## documents
 - [Generating sortable Guids using NewId](https://andrewlock.net/generating-sortable-guids-using-newid/) by Andrew Lock: An excellent document about how to use Guid in database as primary key.
