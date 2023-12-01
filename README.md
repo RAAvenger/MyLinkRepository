@@ -36,7 +36,7 @@ p.s. there is an updated one for minimal apis [Implementing Modern API Versionin
 - [CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture): Jason Taylor's Clean Architecture Solution Template
 - [Mediator](https://github.com/martinothamar/Mediator): It's MediatR but with better performance thanks to dotnet source generator technology.
 ## books
-
+- [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://en.wikipedia.org/wiki/Accelerate_(book)): If you want to know about DevOps one of best books to read is this. It says that you can measure your software delivery performance by this factors: Change Lead Time, Deployment Frequency, Change Failure Rate and Mean Time to Recovery (MTTR). 
  
 ## Study list
 i have not read or watched these yet.
