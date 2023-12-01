@@ -84,6 +84,7 @@ i have not read or watched these yet.
 - [.NET Configuration In Depth | .NET Conf 2023](https://www.youtube.com/watch?v=aOXaBZFB0-0)
 - [All About C# Source Generators | .NET Conf 2023](https://www.youtube.com/watch?v=Yf8t7GqA6zA)
 - [Effective DevOps for Organizations - Damian Brady - NDC Oslo 2022](https://www.youtube.com/watch?v=-THd1Su3vxE)
+- [Building Cloud Native apps with .NET 8 | .NET Conf 2023 (Aspire)](https://www.youtube.com/watch?v=z1M-7Bms1Jg)
 
 ### documents
 - [Exploring .NET 6](https://andrewlock.net/series/exploring-dotnet-6/)
