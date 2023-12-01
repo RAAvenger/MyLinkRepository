@@ -35,6 +35,8 @@ p.s. there is an updated one for minimal apis [Implementing Modern API Versionin
 ## repositories 
 - [CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture): Jason Taylor's Clean Architecture Solution Template
 - [Mediator](https://github.com/martinothamar/Mediator): It's MediatR but with better performance thanks to dotnet source generator technology.
+## books
+
  
 ## Study list
 i have not read or watched these yet.
@@ -57,6 +59,31 @@ i have not read or watched these yet.
 - [OpenTelemetry tracing for .NET developers - Vagif Abilov - NDC London 2023](https://www.youtube.com/watch?v=f0QRTLKax3s)
 - [MIT 6.006 Introduction to Algorithms, Spring 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
 - [Kelsey Hightower On Kubernetes & Cloud Computing | The Engineering Room Ep. 13](https://www.youtube.com/watch?v=zkEYxCmPGqU)
+- [Minimum Viable Migrations (MVMs): A Path to Cloud Native EDAs • Ben Ellerby • GOTO 2022](https://www.youtube.com/watch?v=eexMec1rSEc)
+- [A Guide To Managing Technical Teams • Dave Farley • GOTO 2023](https://www.youtube.com/watch?v=urghSC21Mx0)
+- [Once Upon a Time in Agile • John Le Drew • GOTO 2022](https://www.youtube.com/watch?v=QIzWwcN-1c8)
+- [Expert Talk: Managing Complexity in Software • Hadi Hariri](https://www.youtube.com/watch?v=P7CfWtR-ECk)
+- [Web performance APIs you (probably) didn't know existed - Matheus Albuquerque - NDC Oslo 2022](https://www.youtube.com/watch?v=bC4ZNsc97Xk)
+- [How does Hot Reload even work? - David Wengier - NDC Sydney 2022](https://www.youtube.com/watch?v=tVmABHwxuqE)
+- [“Wouldn’t it be cool…” and other bad design approaches - Billy Hollis - NDC Oslo 2022](https://www.youtube.com/watch?v=o4mVlUY-TvI)
+- [Securing your .NET application software supply-chain - Niels Tanis - NDC Sydney 2022](https://www.youtube.com/watch?v=mFiAhYaKao4)
+- [Building Operable Software with TDD (but not the way you think) - Martin Thwaites](https://www.youtube.com/watch?v=yVQMnQKSsh4)
+- [Domain-Driven Design & Team Topologies For Product-led Organizations - Nick Tune - NDC Oslo 2022](https://www.youtube.com/watch?v=dwtVgOvGcQg)
+- [Embracing gRPC in .NET - Irina Scurtu - NDC Oslo 2022](https://www.youtube.com/watch?v=woevAXKb6U4)
+- [Fun with Algorithms - Tess Ferrandez-Norlander - NDC Oslo 2022](https://www.youtube.com/watch?v=QozjqbNhTVQ)
+- [Secret Management with Hashicorp's Vault • Daniel Bornkessel • GOTO 2018](https://www.youtube.com/watch?v=C2iUSUtr93E)
+- [What’s Next in C#? - Mads Torgersen - Copenhagen DevFest 2023](https://www.youtube.com/watch?v=gGzfAJwoH5A)
+- [Expert Talk: The Current State of Software Engineering • Jez Humble & Holly Cummins • GOTO 2023](https://www.youtube.com/watch?v=jMND85XmAls)
+- [What's new in System.Text.Json | .NET Conf 2023](https://www.youtube.com/watch?v=7Et6ooq4oyI)
+- [In .NET 8, ASP.NET Ate | .NET Conf 2023](https://www.youtube.com/watch?v=eWjtKwRIc54)
+- [.NET Containers advancements in .NET 8 | .NET Conf 2023](https://www.youtube.com/watch?v=scIAwLrruMY)
+- [Best Practices for Cross-Platform .NET 8 Applications | .NET Conf 2023](https://www.youtube.com/watch?v=yVYhZsu7gso)
+- [Vertical Slice Architecture: How Does it Compare to Clean Architecture | .NET Conf 2023](https://www.youtube.com/watch?v=T-EwN9UqRwE)
+- [Unleashing the Power of Cross-Platform Development with Avalonia UI | .NET Conf 2023](https://www.youtube.com/watch?v=9PZVjcp3Xxc)
+- [CQRS with Event Sourcing using the “Critter Stack” | .NET Conf 2023](https://www.youtube.com/watch?v=KousO1UsHYM)
+- [.NET Configuration In Depth | .NET Conf 2023](https://www.youtube.com/watch?v=aOXaBZFB0-0)
+- [All About C# Source Generators | .NET Conf 2023](https://www.youtube.com/watch?v=Yf8t7GqA6zA)
+- [Effective DevOps for Organizations - Damian Brady - NDC Oslo 2022](https://www.youtube.com/watch?v=-THd1Su3vxE)
 
 ### documents
 - [Exploring .NET 6](https://andrewlock.net/series/exploring-dotnet-6/)
