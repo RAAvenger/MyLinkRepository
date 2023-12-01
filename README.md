@@ -47,7 +47,16 @@ i have not read or watched these yet.
 - [Michael Feathers Working Effectively with Legacy Code](https://www.youtube.com/watch?v=wRtJRkRIa2s)
 - [Latency Numbers Programmer Should Know](https://www.youtube.com/watch?v=FqR5vESuKe0)
 - [Pragmatic Event Sourcing in .NET With Marten](https://www.youtube.com/watch?v=Lc2zV8KA16A)
-- 
+- [ou are doing logging in .NET wrong. Let’s fix it. - Nick Chapsas - NDC Oslo 2023](https://www.youtube.com/watch?v=NlBjVJPkT6M)
+- [Performance tricks I learned from contributing to open source .NET packages - Daniel Marbach](https://www.youtube.com/watch?v=pGgsFW7kDKI)
+- [Practical Event Sourcing with Marten and .NET - Oskar Dudycz - NDC Oslo 2023](https://www.youtube.com/watch?v=jnDchr5eabI)
+- [.NET gRPC - deep dive - Irina Scurtu - NDC Oslo 2023](https://www.youtube.com/watch?v=x_OKoJ_1j8U)
+- [Back to Basics: Efficient Async and Await - Filip Ekberg - NDC Oslo 2023](https://www.youtube.com/watch?v=n6kiJKr4_oA)
+- [Monorepo – How to do frontend faster, better and safer - Kari Meling Johannessen - NDC Oslo 2023](https://www.youtube.com/watch?v=_iqcMdEOrF4)
+- [1,2,3… testing: is this thing on(line)? Meet your new Microsoft Testing tools - Mike Martin](https://www.youtube.com/watch?v=FLvY78ZFJMI)
+- [OpenTelemetry tracing for .NET developers - Vagif Abilov - NDC London 2023](https://www.youtube.com/watch?v=f0QRTLKax3s)
+- [MIT 6.006 Introduction to Algorithms, Spring 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
+- [Kelsey Hightower On Kubernetes & Cloud Computing | The Engineering Room Ep. 13](https://www.youtube.com/watch?v=zkEYxCmPGqU)
 
 ### documents
 - [Exploring .NET 6](https://andrewlock.net/series/exploring-dotnet-6/)
