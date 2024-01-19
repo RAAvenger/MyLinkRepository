@@ -26,7 +26,8 @@ p.s. there is an updated one for minimal apis [Implementing Modern API Versionin
 - [Kubernetes Deconstructed: Understanding Kubernetes by Breaking It Down - Carson Anderson](https://www.youtube.com/watch?v=90kZRyPcRZw): Kubernetes is a magical tool and almost any scaled application is running on it. Knowing what it actually is and how it works is a great thing that this video try to talk about.
 - [Background Tasks Are Finally Fixed in .NET 8](https://www.youtube.com/watch?v=XA_3CZmD9y0): Having background tasks is a common thing in many usecases so knowing how to make them is a good thing.
 - [How to choose the right database for your application - Zoe Steinkamp - NDC Oslo 2023](https://www.youtube.com/watch?v=hj2yFugmpz8): This is one of greatest talks about databeses and their usecases.
-- 
+- [Test Driven Development with C# - from Padawan to Jedi - Scott Sauber - NDC Porto 2023](https://www.youtube.com/watch?v=pD1mUQr_Z1U): A pretty good talk about tdd. what else should i say. just watch it!
+-  
 ## documents
 - [Generating sortable Guids using NewId](https://andrewlock.net/generating-sortable-guids-using-newid/) by Andrew Lock: An excellent document about how to use Guid in database as primary key.
 - [NetEscapades.EnumGenerators: a source generator for enum performance](https://andrewlock.net/netescapades-enumgenerators-a-source-generator-for-enum-performance/) by Andrew Lock: A high performance library to work with enums.
