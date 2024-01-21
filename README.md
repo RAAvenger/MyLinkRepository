@@ -27,6 +27,7 @@ p.s. there is an updated one for minimal apis [Implementing Modern API Versionin
 - [Background Tasks Are Finally Fixed in .NET 8](https://www.youtube.com/watch?v=XA_3CZmD9y0): Having background tasks is a common thing in many usecases so knowing how to make them is a good thing.
 - [How to choose the right database for your application - Zoe Steinkamp - NDC Oslo 2023](https://www.youtube.com/watch?v=hj2yFugmpz8): This is one of greatest talks about databeses and their usecases.
 - [Test Driven Development with C# - from Padawan to Jedi - Scott Sauber - NDC Porto 2023](https://www.youtube.com/watch?v=pD1mUQr_Z1U): A pretty good talk about tdd. what else should i say. just watch it!
+-  [Jake Archibald on the web browser event loop, setTimeout, micro tasks, requestAnimationFrame, ...](https://www.youtube.com/watch?v=cCOL7MC4Pl0&pp=ygUKZXZlbnQgbG9vcA%3D%3D): Js event loop is behind js runtime and if you are going to write any js you beter to know about it.
 -  
 ## documents
 - [Generating sortable Guids using NewId](https://andrewlock.net/generating-sortable-guids-using-newid/) by Andrew Lock: An excellent document about how to use Guid in database as primary key.
