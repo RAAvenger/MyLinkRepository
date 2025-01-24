@@ -41,26 +41,28 @@ This is my Link Repository! I like to have some handy links within reach in case
 - [Clean Architecture with .NET Core: Getting Started](https://jasontaylor.dev/clean-architecture-getting-started/) by Jason Taylor: One of the best-designed templates to write a project based on clean architecture is Jason Taylor's Clean Architecture Solution Template. In this document, he provides an overview of Clean Architecture and explains how to use the template.
 - [CQRS Pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs): This document thoroughly explains CQRS. CQRS is a well-known pattern that you’ll probably use (or should use) when designing your backend. According to this document: "CQRS stands for Command and Query Responsibility Segregation, a pattern that separates read and update operations for a data store. Implementing CQRS in your application can maximize its performance, scalability, and security. The flexibility created by migrating to CQRS allows a system to better evolve over time and prevents update commands from causing merge conflicts at the domain level."
 - [The Twelve-Factor App](https://12factor.net/):
-> In the modern era, software is commonly delivered as a service: called web apps, or software-as-a-service. The twelve-factor app is a methodology for building software-as-a-service apps that:
->  - Use declarative formats for setup automation, to minimize time and cost for new developers joining the project;
->  - Have a clean contract with the underlying operating system, offering maximum portability between execution environments;
->  - Are suitable for deployment on modern cloud platforms, obviating the need for servers and systems administration;
->  - Minimize divergence between development and production, enabling continuous deployment for maximum agility;
->  - And can scale up without significant changes to tooling, architecture, or development practices.
-> 
-> The twelve-factor methodology can be applied to apps written in any programming language, and which use any combination of backing services (database, queue, memory cache, etc).
+  > In the modern era, software is commonly delivered as a service: called web apps, or software-as-a-service. The twelve-factor app is a methodology for building software-as-a-service apps that:
+  >  - Use declarative formats for setup automation, to minimize time and cost for new developers joining the project;
+  >  - Have a clean contract with the underlying operating system, offering maximum portability between execution environments;
+  >  - Are suitable for deployment on modern cloud platforms, obviating the need for servers and systems administration;
+  >  - Minimize divergence between development and production, enabling continuous deployment for maximum agility;
+  >  - And can scale up without significant changes to tooling, architecture, or development practices.
+  > 
+  > The twelve-factor methodology can be applied to apps written in any programming language, and which use any combination of backing services (database, queue, memory cache, etc).
 - [The Smallest Angular Performance Cookbook](https://ng-guru.io/guide/):
-> I decided to write this little cookbook due to the lack of information on the Internet regarding the deep details of how the Angular framework works (know your tool).
+  > I decided to write this little cookbook due to the lack of information on the Internet regarding the deep details of how the Angular framework works (know your tool).
   
 ## Repositories
 - [CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture): Jason Taylor's Clean Architecture Solution Template.
 - [Mediator](https://github.com/martinothamar/Mediator): A MediatR alternative with better performance, thanks to .NET source generator technology.
 - [AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap): A great roadmap to Asp.Net Core by Moien Tajik.
 - [Angular Performance Checklist](https://github.com/mgechev/angular-performance-checklist):
-> This document contains a list of practices that will help us boost the performance of our Angular applications. "Angular Performance Checklist" covers different topics - from server-side pre-rendering and bundling of our applications to runtime performance and optimization of the change detection performed by the framework.
+  > This document contains a list of practices that will help us boost the performance of our Angular applications. "Angular Performance Checklist" covers different topics - from server-side pre-rendering and bundling of our applications to runtime performance and optimization of the change detection performed by the framework.
 
 ## Books
 - [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://en.wikipedia.org/wiki/Accelerate_(book)): One of the best books to read if you want to learn about DevOps. It highlights how you can measure your software delivery performance using the following factors: Change Lead Time, Deployment Frequency, Change Failure Rate, and Mean Time to Recovery (MTTR).
+- [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.goodreads.com/book/show/44135420-team-topologies):
+  > Effective software teams are essential for any organization to deliver value continuously and sustainably. But how do you build the best team organization for your specific goals, culture, and needs?
 
 ## Study list
 I haven't read or watched these yet. 
