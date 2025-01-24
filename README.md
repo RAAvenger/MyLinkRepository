@@ -49,11 +49,15 @@ This is my Link Repository! I like to have some handy links within reach in case
 >  - And can scale up without significant changes to tooling, architecture, or development practices.
 > 
 > The twelve-factor methodology can be applied to apps written in any programming language, and which use any combination of backing services (database, queue, memory cache, etc).
+- [The Smallest Angular Performance Cookbook](https://ng-guru.io/guide/):
+> I decided to write this little cookbook due to the lack of information on the Internet regarding the deep details of how the Angular framework works (know your tool).
   
 ## Repositories
 - [CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture): Jason Taylor's Clean Architecture Solution Template.
 - [Mediator](https://github.com/martinothamar/Mediator): A MediatR alternative with better performance, thanks to .NET source generator technology.
 - [AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap): A great roadmap to Asp.Net Core by Moien Tajik.
+- [Angular Performance Checklist](https://github.com/mgechev/angular-performance-checklist):
+> This document contains a list of practices that will help us boost the performance of our Angular applications. "Angular Performance Checklist" covers different topics - from server-side pre-rendering and bundling of our applications to runtime performance and optimization of the change detection performed by the framework.
 
 ## Books
 - [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://en.wikipedia.org/wiki/Accelerate_(book)): One of the best books to read if you want to learn about DevOps. It highlights how you can measure your software delivery performance using the following factors: Change Lead Time, Deployment Frequency, Change Failure Rate, and Mean Time to Recovery (MTTR).
