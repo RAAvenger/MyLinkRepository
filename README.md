@@ -32,6 +32,7 @@ p.s. there is an updated one for minimal apis [Implementing Modern API Versionin
 - [A love letter to long lines and other DX stories - Jo Franchetti - NDC Porto 2023](https://www.youtube.com/watch?v=fmh_m7n2CU4): DevEx is a very important thing for any technical team. we should know what it is and how to improve devEx of our codebases.
 - [Will AI Replace Junior Software Developers?](https://www.youtube.com/watch?v=AK9pFlLJwbQ): In my mind using ai to write code is too good to be true and i have seen many mistakes from especially inexperienced developers when they write code with ai. In this video the usage of ai to write code is studied and differences of it when an experienced developer uses it and when an inexperienced one use it is explained.
 - [The Free Way to Create Awesome PDFs in .NET](https://www.youtube.com/watch?v=BMnjwz-u-9Y): It's a common usecase to give printable receipt in your application (specially stores) so it's good to know how to make pdfs in c#.
+- [Top 9 Must-Read Blogs for Engineers](https://www.youtube.com/watch?v=UuT61kf292A): When you are working in software industry, you need to solve problems that havent been solved before, so reading experience of others who work specialy in big companies is a must do for you and knowing where to read these experiences is a blessing.
 
 ## documents
 - [Generating sortable Guids using NewId](https://andrewlock.net/generating-sortable-guids-using-newid/) by Andrew Lock: An excellent document about how to use Guid in database as primary key.
@@ -93,6 +94,9 @@ i have not read or watched these yet.
 - [All About C# Source Generators | .NET Conf 2023](https://www.youtube.com/watch?v=Yf8t7GqA6zA)
 - [Effective DevOps for Organizations - Damian Brady - NDC Oslo 2022](https://www.youtube.com/watch?v=-THd1Su3vxE)
 - [Building Cloud Native apps with .NET 8 | .NET Conf 2023 (Aspire)](https://www.youtube.com/watch?v=z1M-7Bms1Jg)
+- [I Confronted Microsoft About Blazor's Future](https://www.youtube.com/watch?v=2uLGXe95kTo)
+- [Getting Started with Entity Framework Core in .NET](https://www.youtube.com/watch?v=2t88FOeQ898)
+- [Fusion Cache in C# - Removal, Expiration, and FailSafe Cache Operations](https://www.youtube.com/watch?v=wmvEFWSE49g)
 
 ### documents
 - [Exploring .NET 6](https://andrewlock.net/series/exploring-dotnet-6/)
