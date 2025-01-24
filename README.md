@@ -34,21 +34,22 @@ This is my Link Repository! I like to have some handy links within reach in case
 - [The Free Way to Create Awesome PDFs in .NET](https://www.youtube.com/watch?v=BMnjwz-u-9Y): It's a common use case to give printable receipts in your application (especially in stores), so it's good to know how to make PDFs in C#.
 - [Top 9 Must-Read Blogs for Engineers](https://www.youtube.com/watch?v=UuT61kf292A): When you are working in the software industry, you need to solve problems that haven’t been solved before. Reading the experiences of others who work, especially in big companies, is a must-do for you, and knowing where to read these experiences is a blessing.
 
-## documents
-- [Generating sortable Guids using NewId](https://andrewlock.net/generating-sortable-guids-using-newid/) by Andrew Lock: An excellent document about how to use Guid in database as primary key.
-- [NetEscapades.EnumGenerators: a source generator for enum performance](https://andrewlock.net/netescapades-enumgenerators-a-source-generator-for-enum-performance/) by Andrew Lock: A high performance library to work with enums.
-- [An Introduction to Microservices](https://auth0.com/blog/an-introduction-to-microservices-part-1/): These articles helps to understand some basic fundamentals of microservice architecture.
-- [Clean Architecture with .NET Core: Getting Started](https://jasontaylor.dev/clean-architecture-getting-started/) by Jason Taylor: One of well designed templates to write a project based on clean architecture is Jason Taylor's Clean Architecture Solution Template and in ths document he provides an overview of Clean Architecture then explains how to use the template.
-- [CQRS pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs): This document is a thorough explaining for cqrs. Cqrs is a known pattern that you probably will (should?) use it while designing your backend,  according to this document "CQRS stands for Command and Query Responsibility Segregation, a pattern that separates read and update operations for a data store. Implementing CQRS in your application can maximize its performance, scalability, and security. The flexibility created by migrating to CQRS allows a system to better evolve over time and prevents update commands from causing merge conflicts at the domain level.".
-  
-## repositories 
-- [CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture): Jason Taylor's Clean Architecture Solution Template
-- [Mediator](https://github.com/martinothamar/Mediator): It's MediatR but with better performance thanks to dotnet source generator technology.
-## books
-- [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://en.wikipedia.org/wiki/Accelerate_(book)): If you want to know about DevOps one of best books to read is this. It says that you can measure your software delivery performance by this factors: Change Lead Time, Deployment Frequency, Change Failure Rate and Mean Time to Recovery (MTTR). 
+## Documents
+- [Generating Sortable GUIDs Using NewId](https://andrewlock.net/generating-sortable-guids-using-newid/) by Andrew Lock: An excellent document about how to use GUIDs in databases as primary keys.
+- [NetEscapades.EnumGenerators: A Source Generator for Enum Performance](https://andrewlock.net/netescapades-enumgenerators-a-source-generator-for-enum-performance/) by Andrew Lock: A high-performance library to work with enums.
+- [An Introduction to Microservices](https://auth0.com/blog/an-introduction-to-microservices-part-1/): This article helps understand the basic fundamentals of microservice architecture.
+- [Clean Architecture with .NET Core: Getting Started](https://jasontaylor.dev/clean-architecture-getting-started/) by Jason Taylor: One of the best-designed templates to write a project based on clean architecture is Jason Taylor's Clean Architecture Solution Template. In this document, he provides an overview of Clean Architecture and explains how to use the template.
+- [CQRS Pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs): This document thoroughly explains CQRS. CQRS is a well-known pattern that you’ll probably use (or should use) when designing your backend. According to this document: "CQRS stands for Command and Query Responsibility Segregation, a pattern that separates read and update operations for a data store. Implementing CQRS in your application can maximize its performance, scalability, and security. The flexibility created by migrating to CQRS allows a system to better evolve over time and prevents update commands from causing merge conflicts at the domain level."
  
+## Repositories
+- [CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture): Jason Taylor's Clean Architecture Solution Template.
+- [Mediator](https://github.com/martinothamar/Mediator): A MediatR alternative with better performance, thanks to .NET source generator technology.
+
+## Books
+- [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://en.wikipedia.org/wiki/Accelerate_(book)): One of the best books to read if you want to learn about DevOps. It highlights how you can measure your software delivery performance using the following factors: Change Lead Time, Deployment Frequency, Change Failure Rate, and Mean Time to Recovery (MTTR).
+
 ## Study list
-i have not read or watched these yet.
+I haven't read or watched these yet. 
 ### videos
 - [Goodbye controllers, hello Minimal APIs - Nick Chapsas - NDC London 2022](https://www.youtube.com/watch?v=hPpvlKLeYYA)
 - [Back to Basics: Efficient Async and Await - Filip Ekberg - NDC Porto 2022](https://www.youtube.com/watch?v=XEeeYTG3hUg&list=PL03Lrmd9CiGf2W0_aZw1o_rbtXGrKCIM4)
