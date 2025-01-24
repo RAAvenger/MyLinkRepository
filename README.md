@@ -98,6 +98,24 @@ I haven't read or watched these yet.
 - [I Confronted Microsoft About Blazor's Future](https://www.youtube.com/watch?v=2uLGXe95kTo)
 - [Getting Started with Entity Framework Core in .NET](https://www.youtube.com/watch?v=2t88FOeQ898)
 - [Fusion Cache in C# - Removal, Expiration, and FailSafe Cache Operations](https://www.youtube.com/watch?v=wmvEFWSE49g)
+- [25 Computer Papers You Should Read!](https://www.youtube.com/watch?v=_kynGl5hr9U)
+- [Traefik Crash Course (Without docker)](https://www.youtube.com/watch?v=C6IL8tjwC5E): Traefik is an open-source reverse proxy written in GO and marketed as an Edge Router. It supports automatic TLS and HTTP/2 by default and other cloud native features. In this video I want to discuss Traefik as a reverse proxy and load balancer.
+- [solid principles of object oriented & agile design (uncle bob)](https://www.youtube.com/watch?v=QHnLmvDxGTY)
+- [Building a Culture of Healthy Conflict in Tech Teams - Andrew Murphy - NDC Porto 2023](https://www.youtube.com/watch?v=UJ2n0WZSRbU)
+- [Backwards Compatible- Lessons from a Quarter Century in Software - Anjuan Simmons](https://www.youtube.com/watch?v=aPyPL3CBsvI)
+- [Lies Developers Tell Themselves - Billy Hollis - NDC Porto 2023](https://www.youtube.com/watch?v=rySTB112z6w)
+- [Just in Time Architecture - Macklin Hartley - NDC Porto 2023](https://www.youtube.com/watch?v=REbnvajTlko)
+- [Secret Shortcuts of Loading Web Performance - Nikola Mitrovic - NDC Porto 2023](https://www.youtube.com/watch?v=JuEDLKjqp3w)
+- [Uncoupling • Michael Nygard • GOTO 2018](https://www.youtube.com/watch?v=esm-1QXtA2Q): We overload our terms a lot in this industry. "Coupling" is one such. That word covers situations ranging from essential to accidental to comical to cosmic. Coupling seems to be the root of all ills. It is the molasses that slows our every move. And yet, in the industry from which we borrowed the term, "coupling" was not a dirty word. It meant something ingenious. Let us contemplate coupling for a time and see what we [...]
+- [Herding cats: lessons from 15 years of managing engineers at Microsoft - Kevin Pilch](https://www.youtube.com/watch?v=eg8Q8jR6tX4)
+- [CI/CD Patterns and Antipatterns - Things your Pipeline Should (Not) Do - Daniel Raniz Raneland](https://www.youtube.com/watch?v=OonABHdHD2I)
+- [How to deliver continuously - Christian Johansen - NDC Oslo 2024](https://www.youtube.com/watch?v=hnETs-UVQec)
+- [The performance loop—A practical guide to profiling and benchmarking - Daniel Marbach - NDC Oslo](https://www.youtube.com/watch?v=eJbIDdMl27Q)
+- [Modularizing the Monolith - Jimmy Bogard - NDC Oslo 2024](https://www.youtube.com/watch?v=fc6_NtD9soI)
+- [How to fall in love with TDD - Gui Ferreira - NDC Oslo 2024](https://www.youtube.com/watch?v=vXnTMjMe5Eg)
+- [Distributed Leadership - Phil Haack - NDC Sydney 2024](https://www.youtube.com/watch?v=IrKVUo2p_5Y)
+- [Getting a grip on your code dependencies - Dennis Doomen - NDC Sydney 2024](https://www.youtube.com/watch?v=wteaLmoooMQ)
+- [Architecture Modernization: Aligning Software, Strategy, and Structure - Nick Tune - NDC Sydney 2024](https://www.youtube.com/watch?v=XhbEsAM0GEM)
 
 ### documents
 - [Exploring .NET 6](https://andrewlock.net/series/exploring-dotnet-6/)
