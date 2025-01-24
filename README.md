@@ -40,7 +40,15 @@ This is my Link Repository! I like to have some handy links within reach in case
 - [An Introduction to Microservices](https://auth0.com/blog/an-introduction-to-microservices-part-1/): This article helps understand the basic fundamentals of microservice architecture.
 - [Clean Architecture with .NET Core: Getting Started](https://jasontaylor.dev/clean-architecture-getting-started/) by Jason Taylor: One of the best-designed templates to write a project based on clean architecture is Jason Taylor's Clean Architecture Solution Template. In this document, he provides an overview of Clean Architecture and explains how to use the template.
 - [CQRS Pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs): This document thoroughly explains CQRS. CQRS is a well-known pattern that you’ll probably use (or should use) when designing your backend. According to this document: "CQRS stands for Command and Query Responsibility Segregation, a pattern that separates read and update operations for a data store. Implementing CQRS in your application can maximize its performance, scalability, and security. The flexibility created by migrating to CQRS allows a system to better evolve over time and prevents update commands from causing merge conflicts at the domain level."
- 
+- [The Twelve-Factor App](https://12factor.net/):
+> In the modern era, software is commonly delivered as a service: called web apps, or software-as-a-service. The twelve-factor app is a methodology for building software-as-a-service apps that:
+>  - Use declarative formats for setup automation, to minimize time and cost for new developers joining the project;
+>  - Have a clean contract with the underlying operating system, offering maximum portability between execution environments;
+>  - Are suitable for deployment on modern cloud platforms, obviating the need for servers and systems administration;
+>  - Minimize divergence between development and production, enabling continuous deployment for maximum agility;
+>  - And can scale up without significant changes to tooling, architecture, or development practices.
+>The twelve-factor methodology can be applied to apps written in any programming language, and which use any combination of backing services (database, queue, memory cache, etc).
+  
 ## Repositories
 - [CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture): Jason Taylor's Clean Architecture Solution Template.
 - [Mediator](https://github.com/martinothamar/Mediator): A MediatR alternative with better performance, thanks to .NET source generator technology.
