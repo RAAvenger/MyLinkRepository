@@ -134,6 +134,15 @@ I haven't read or watched these yet.
 - [Distributed Leadership - Phil Haack - NDC Sydney 2024](https://www.youtube.com/watch?v=IrKVUo2p_5Y)
 - [Getting a grip on your code dependencies - Dennis Doomen - NDC Sydney 2024](https://www.youtube.com/watch?v=wteaLmoooMQ)
 - [Architecture Modernization: Aligning Software, Strategy, and Structure - Nick Tune - NDC Sydney 2024](https://www.youtube.com/watch?v=XhbEsAM0GEM)
+- [Software engineering at the tipping point](https://www.youtube.com/watch?v=2n41YjR5QfU)
+- [Michael Feathers - the deep synergy between testability and good design](https://www.youtube.com/watch?v=4cVZvoFGJTU)
+- [Getting Started with GraphQL in .NET](https://www.youtube.com/watch?v=YL07NyBXC7M)
+- [Getting Started with MCP (Model Context Protocol)](https://www.youtube.com/watch?v=DpyjAKmNwpI)
+- [Building The PERFECT Software Developer With 10 SKILLS](https://www.youtube.com/watch?v=t_XQgfhSshY)
+- [unctional Principles for Object-Oriented Development • Jessica Kerr • GOTO 2014](https://www.youtube.com/watch?v=GpXsQ-NIKXY)
+- [Legacy Code, OOP vs Functional Programming & MORE | Michael Feathers In The Engineering Room Ep. 10](https://www.youtube.com/watch?v=UGD8pMMJlbk)
+- [Why Pull Requests Are A BAD IDEA](https://www.youtube.com/watch?v=ASOSEiJCyEM)
+- [Requirement Specification vs User Stories](https://www.youtube.com/watch?v=KP0U3I-f9-Y)
 
 ### documents
 - [Exploring .NET 6](https://andrewlock.net/series/exploring-dotnet-6/)
