@@ -36,6 +36,7 @@ This is my Link Repository! I like to have some handy links within reach in case
 - [5 Things That Waste Time & Money On A Software Project](https://www.youtube.com/watch?v=PlN2UWOnzW0): The video explains *how* software projects waste time and money by breaking down five main pitfalls: unclear requirements, poor communication, over-engineering, lack of testing, and constant scope changes—then suggests clear planning, better collaboration, and disciplined scope control to avoid them.
 - ["Software Fundamentals Matter More Than Ever" — Matt Pocock](https://www.youtube.com/watch?v=v4F1gFy-hqg): Matt Pocock argues that core software engineering principles are becoming more critical than ever in an AI-driven development landscape, offering practical tips like using the "Grill Me" technique to force AI to ask clarifying questions until a shared design is established, applying Test-Driven Development (TDD) to keep AI's work focused and incremental, and creating a shared "ubiquitous language" with the AI to ensure consistent terminology.
 - [A Guide To Managing Technical Teams • Dave Farley • GOTO 2023](https://www.youtube.com/watch?v=urghSC21Mx0): This video is about leading technical teams by enabling effectiveness through servant leadership, fostering autonomy, and facilitating collaboration rather than dictating every technical decision.
+- [Expert Talk: Managing Complexity in Software • Hadi Hariri](https://www.youtube.com/watch?v=P7CfWtR-ECk): This video is about software complexity—how it grows, how design patterns can help or hurt, and why over-engineering is a common trap. It then covers practical tips like choosing solutions based on your project's actual needs, not just flashy trends, and shows how iterative development keeps things manageable. A real example using the Ktor project ties it all together, and the talk ends with a quick summary of the main lessons.
 
 ## Documents
 - [Generating Sortable GUIDs Using NewId](https://andrewlock.net/generating-sortable-guids-using-newid/) by Andrew Lock: An excellent document about how to use GUIDs in databases as primary keys.
@@ -89,7 +90,6 @@ I haven't read or watched these yet.
 - [Kelsey Hightower On Kubernetes & Cloud Computing | The Engineering Room Ep. 13](https://www.youtube.com/watch?v=zkEYxCmPGqU)
 - [Minimum Viable Migrations (MVMs): A Path to Cloud Native EDAs • Ben Ellerby • GOTO 2022](https://www.youtube.com/watch?v=eexMec1rSEc)
 - [Once Upon a Time in Agile • John Le Drew • GOTO 2022](https://www.youtube.com/watch?v=QIzWwcN-1c8)
-- [Expert Talk: Managing Complexity in Software • Hadi Hariri](https://www.youtube.com/watch?v=P7CfWtR-ECk)
 - [Web performance APIs you (probably) didn't know existed - Matheus Albuquerque - NDC Oslo 2022](https://www.youtube.com/watch?v=bC4ZNsc97Xk)
 - [How does Hot Reload even work? - David Wengier - NDC Sydney 2022](https://www.youtube.com/watch?v=tVmABHwxuqE)
 - [“Wouldn’t it be cool…” and other bad design approaches - Billy Hollis - NDC Oslo 2022](https://www.youtube.com/watch?v=o4mVlUY-TvI)
