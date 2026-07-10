@@ -93,7 +93,6 @@ I haven't read or watched these yet.
 - [Once Upon a Time in Agile • John Le Drew • GOTO 2022](https://www.youtube.com/watch?v=QIzWwcN-1c8)
 - [Web performance APIs you (probably) didn't know existed - Matheus Albuquerque - NDC Oslo 2022](https://www.youtube.com/watch?v=bC4ZNsc97Xk)
 - [How does Hot Reload even work? - David Wengier - NDC Sydney 2022](https://www.youtube.com/watch?v=tVmABHwxuqE)
-- [“Wouldn’t it be cool…” and other bad design approaches - Billy Hollis - NDC Oslo 2022](https://www.youtube.com/watch?v=o4mVlUY-TvI)
 - [Securing your .NET application software supply-chain - Niels Tanis - NDC Sydney 2022](https://www.youtube.com/watch?v=mFiAhYaKao4)
 - [Building Operable Software with TDD (but not the way you think) - Martin Thwaites](https://www.youtube.com/watch?v=yVQMnQKSsh4)
 - [Domain-Driven Design & Team Topologies For Product-led Organizations - Nick Tune - NDC Oslo 2022](https://www.youtube.com/watch?v=dwtVgOvGcQg)
