@@ -123,7 +123,6 @@ I haven't read or watched these yet.
 - [Traefik Crash Course (Without docker)](https://www.youtube.com/watch?v=C6IL8tjwC5E): Traefik is an open-source reverse proxy written in GO and marketed as an Edge Router. It supports automatic TLS and HTTP/2 by default and other cloud native features. In this video I want to discuss Traefik as a reverse proxy and load balancer.
 - [solid principles of object oriented & agile design (uncle bob)](https://www.youtube.com/watch?v=QHnLmvDxGTY)
 - [Building a Culture of Healthy Conflict in Tech Teams - Andrew Murphy - NDC Porto 2023](https://www.youtube.com/watch?v=UJ2n0WZSRbU)
-- [Lies Developers Tell Themselves - Billy Hollis - NDC Porto 2023](https://www.youtube.com/watch?v=rySTB112z6w)
 - [Just in Time Architecture - Macklin Hartley - NDC Porto 2023](https://www.youtube.com/watch?v=REbnvajTlko)
 - [Secret Shortcuts of Loading Web Performance - Nikola Mitrovic - NDC Porto 2023](https://www.youtube.com/watch?v=JuEDLKjqp3w)
 - [Uncoupling • Michael Nygard • GOTO 2018](https://www.youtube.com/watch?v=esm-1QXtA2Q): We overload our terms a lot in this industry. "Coupling" is one such. That word covers situations ranging from essential to accidental to comical to cosmic. Coupling seems to be the root of all ills. It is the molasses that slows our every move. And yet, in the industry from which we borrowed the term, "coupling" was not a dirty word. It meant something ingenious. Let us contemplate coupling for a time and see what we [...]
