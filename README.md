@@ -48,6 +48,7 @@ This is my Link Repository! I like to have some handy links within reach in case
 - [A Practical Guide To User Stories & Requirements](https://www.youtube.com/watch?v=MECG5MPy_cc): This video is about a practical guide to user stories and requirements, explaining how to distinguish real user needs from formal specifications, write effective stories in a role-goal-benefit format, and use them as tools for collaboration and flexibility in agile software development.
 - [How Microsoft Developers Use AI in Real-World Coding](https://www.youtube.com/watch?v=gieL0bxyTUU): Tired of the hype? Join real developers from Microsoft as they show how GitHub Copilot fits naturally into their everyday coding workflows. This session is all about practical, real-world use—no fluff. Through live coding demos, you'll see how different developers apply Copilot in their own styles, using either Visual Studio or VS Code. Whether you’re just getting started or already experimenting with AI tools, you’ll leave with pragmatic tips you can use right away. By Stephen Toub & David Fowler.
 - [Continuous Delivery Explained PERFECTLY In 15 Minutes](https://www.youtube.com/watch?v=tQMrrNo16jo): name is descriptive enough.
+- [The Pros & Cons Of Pair Programming (With Examples)](https://www.youtube.com/watch?v=fbxMV76e7_E): A nice guide to to use pair programming.
   
 ## Documents
 - [Generating Sortable GUIDs Using NewId](https://andrewlock.net/generating-sortable-guids-using-newid/) by Andrew Lock: An excellent document about how to use GUIDs in databases as primary keys.
